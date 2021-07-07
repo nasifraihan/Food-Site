@@ -10,6 +10,7 @@
  }
  section{
      display: flex;
+     margin-bottom: 70px;
  }
  .half-width{
      width: 50%;
@@ -26,4 +27,9 @@
      color: black;
      font-weight: 600;
  }
- 
+ .middle{
+     background-image: url(images/7.png);
+     background-repeat: no-repeat;
+     padding-right: 10%;
+    
+ }
