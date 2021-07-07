@@ -1,0 +1,29 @@
+ span{
+     color: orangered;
+ }
+ body{
+    font-family: 'Poppins', sans-serif;
+ }
+ .grey-color{
+     color: grey;
+     padding-top: 5%;
+ }
+ section{
+     display: flex;
+ }
+ .half-width{
+     width: 50%;
+     padding-left: 5%;
+ }
+ .half-width img{
+     width: 80%;
+ }
+ .link-button{
+     text-decoration: none;
+     background-image: linear-gradient(tomato, orange);
+     padding: 4px 9px;
+     border-radius: 5px;
+     color: black;
+     font-weight: 600;
+ }
+ 
